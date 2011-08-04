@@ -1,0 +1,7 @@
+*.swp
+.netrwhist
+.VimballRecord
+view/
+backups/
+tmp/
+
